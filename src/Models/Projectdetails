@@ -1,4 +1,4 @@
-const projectdetails = [{
+const Projectdetails = [{
     id: 1,
     title: "Project 1",
     description: "This is a project description",
@@ -60,4 +60,4 @@ const projectdetails = [{
     link: "https://www.github.com/gani-23",
 
 }]
-export default projectdetails;
+export default Projectdetails;
