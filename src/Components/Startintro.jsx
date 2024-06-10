@@ -11,7 +11,7 @@ const Udata = [{
 
 const StartIntro = () => {
     return (
-        <div className="bg-gradient-to-r from-blue-500 to-indigo-500 animate-gradient h-screen flex justify-center items-center">
+        <div className="bg-gradient-to-r from-blue-500 to-indigo-500 animate-gradient h-80vh flex justify-center items-center">
             <div className="text-center">
                 <div className="p-2 mb-6">
                     <img
@@ -27,7 +27,7 @@ const StartIntro = () => {
                 </p>
                 <div className='p-4'>
                     <button className="bg-white text-indigo-500 hover:bg-indigo-500 hover:text-white font-bold py-2 px-4 md:py-3 md:px-6 lg:py-4 lg:px-8 rounded-full focus:outline-none focus:shadow-outline transition duration-300">
-                        Contact Me
+                        Get started
                     </button>
                 </div>
             </div>

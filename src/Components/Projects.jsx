@@ -36,6 +36,7 @@ const Projects = () => {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white relative">
+      <h1 className="text-2xl md:text-5xl sm:text-2xl lg:text-5xl font-bold mb-4 md:mb-6">Projects</h1>
       <div className="w-full h-5/6 md:h-4/5 lg:h-3/4 overflow-hidden">
         <div className="flex items-center justify-around w-full h-full transition-transform duration-500 ease-in-out">
           {displayedProjects.map((project, index) => (
