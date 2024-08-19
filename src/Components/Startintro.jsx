@@ -26,8 +26,9 @@ const StartIntro = () => {
                     {Udata[0].degree}
                 </p>
                 <div className='p-4'>
+
                     <button className="bg-white text-indigo-500 hover:bg-indigo-500 hover:text-white font-bold py-2 px-4 md:py-3 md:px-6 lg:py-4 lg:px-8 rounded-full focus:outline-none focus:shadow-outline transition duration-300">
-                        Get started
+                        <a href="https://github.com/Gani-23">Get started</a>
                     </button>
                 </div>
             </div>

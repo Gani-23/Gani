@@ -5,6 +5,7 @@ import Intro from './Components/Intro';
 import Projects from './Components/Projects';
 import StartIntro from './Components/Startintro';
 import Techstack from './Components/Techstack';
+import Experience from './Components/Experience';
 
 function App() {
   return(
@@ -12,6 +13,7 @@ function App() {
     <Intro />
     <StartIntro/>
     <Techstack/>
+    <Experience/>
     <Projects/>
     <Collaborate/>
     

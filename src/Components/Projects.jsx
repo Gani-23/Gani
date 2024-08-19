@@ -35,7 +35,7 @@ const Projects = () => {
   const displayedProjects = projectDetails.slice(currentIndex, currentIndex + cardsToShow);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white relative">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white relative py-20">
       <h1 className="text-2xl md:text-5xl sm:text-2xl lg:text-5xl font-bold mb-4 md:mb-6">Projects</h1>
       <div className="w-full h-5/6 md:h-4/5 lg:h-3/4 overflow-hidden">
         <div className="flex items-center justify-around w-full h-full transition-transform duration-500 ease-in-out">

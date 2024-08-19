@@ -1,57 +1,24 @@
-const Projectdetails = [{
-    id: 1,
+const Projectdetails = [
+    {
+        id: 1,
+        title: "Deploy aws Infrastructure as Code",
+        description: " This project is a simple infrastructure as code project that deploys a VPC, Subnets, Security Groups, EC2 Instances, and an S3 bucket using Terraform. The project is built using BOTO3 and AWS.",
+        image: "https://encore.dev/assets/resources/pulumi_cover.png",
+        link: "https://github.com/Gani-23/Monitoring",
+    },
+    
+    {
+    id: 2,
     title: "Weather App",
     description: "The Weather App is a React application that allows users to check the weather forecast for different locations. It utilizes the WeatherAPI and Axios for fetching weather data. The app is built using React and styled with Tailwind CSS",
     image: "https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png",
     link: "https://forecast-app-sigma.vercel.app/",
 }, {
-    id: 2,
+    id: 3,
     title: "Config Manager",
     description:"A online platform for managing your configurations. It is a full stack application built with Django, Flask, Tailwindcss. It allows users to create, update, delete and view configurations. The app uses Axios for fetching data from the backend.",
     image: "https://cdn3d.iconscout.com/3d/free/thumb/free-apple-configuration-10112364-8219390.png",
     link: "https://vaultify-six.vercel.app/",
-}, {
-    id: 3,
-    title: "Project 4",
-    description: "This is a project description",
-    image: "./src/assets/project4.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 4,
-    title: "Project 5",
-    description: "This is a project description",
-    image: "./src/assets/project5.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 5,
-    title: "Project 6",
-    description: "This is a project description",
-    image: "./src/assets/project6.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 6,
-    title: "Project 7",
-    description: "This is a project description",
-    image: "./src/assets/project7.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 7,
-    title: "Project 8",
-    description: "This is a project description",
-    image: "./src/assets/project8.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 8,
-    title: "Project 9",
-    description: "This is a project description",
-    image: "./src/assets/project9.png",
-    link: "https://www.github.com/gani-23",
-}, {
-    id: 9,
-    title: "Project 10",
-    description: "This is a project description",
-    image: "./src/assets/project10.png",
-    link: "https://www.github.com/gani-23",
-
-}]
+}
+]
 export default Projectdetails;

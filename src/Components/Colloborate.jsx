@@ -14,7 +14,7 @@ const Collaborate = () => {
                 </div>
                 <div className="md:w-1/2 p-4">
                     <h1 className="text-3xl md:text-5xl text-white mb-4">Collaborate with us</h1>
-                    <p className="text-white mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ut dolor laoreet venenatis. Ut sit amet nunc quis nisi ultricies egestas. Nulla facilisi. Nam ac dui nec turpis ultrices ultricies. Nam nec ex nec ligula lacinia lacinia. Sed nec nisi nec elit malesuada lobortis. Donec nec velit nec nunc lacinia pretium. Nullam nec purus ut dolor laoreet venenatis. Ut sit amet nunc quis nisi ultricies egestas. Nulla facilisi. Nam ac dui nec turpis ultricies ultricies. Nam nec ex nec ligula lacinia lacinia. Sed nec nisi nec elit malesuada lobortis. Donec nec velit nec nunc lacinia pretium.</p>
+                    <p className="text-white mb-4">Looking for a skilled contract software engineer to drive your project forward? With extensive experience in Application support, .NET desktop development, Web development and pipeline deployments I offer a proven track record in developing high-performance software solutions and optimizing deployment processes. I bring a collaborative approach to ensure seamless integration with your team and effective communication throughout the project. Committed to delivering timely and high-quality results, I focus on understanding your unique business needs and aligning solutions to achieve your goals. Let's discuss how we can work together to bring your vision to life.</p>
                     <button className="bg-blue-500 text-white py-2 px-4 rounded">Contact Me</button>
                 </div>
             </div>
