@@ -2,7 +2,7 @@
   "homepage": "https://gani-23.github.io/Gani/",
   "name": "portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -14,12 +14,14 @@
   },
   "dependencies": {
     "@react-leaflet/core": "^2.1.0",
+    "@react-three/drei": "^9.111.1",
+    "framer-motion": "^11.3.28",
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-leaflet": "^4.2.1",
     "react-parallax": "^3.5.1",
-    "react-router-dom": "^6.23.1",
+    "react-router-dom": "^6.26.1",
     "react-three-fiber": "^6.0.13",
     "react-transition-group": "^4.4.5",
     "three": "^0.165.0"

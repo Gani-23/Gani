@@ -3,7 +3,7 @@ import React, { Profiler } from 'react';
 const Udata = [{
     name: "Saiganesh Angadi",
     designation: "Software Developer",
-    profilePicture: "./src/assets/res.png",
+    profilePicture: "https://avatars.githubusercontent.com/u/47131861?v=4",
     github: "https://www.github.com/gani-23",
     email: "saiganesh7989@gmail.com",
     degree: "Major in Computer Science and Engineering",
@@ -37,3 +37,4 @@ const StartIntro = () => {
 };
 
 export default StartIntro;
+

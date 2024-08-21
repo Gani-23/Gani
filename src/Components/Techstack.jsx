@@ -8,7 +8,6 @@ const TechStack = () => {
         // Web Frameworks & Libraries
         'React JS', 'NodeJS', 'Angular', 'Next.js', 'Flask', 'Django', 'Spring Boot', 'Hibernate',
     
-        // UI/UX Design
         'Tailwind CSS', 'HTML', 'CSS', 'Avalonia UI', 'Reactive UI',
     
         // .NET Ecosystem
@@ -53,4 +52,5 @@ const TechStack = () => {
         </div>
     );
 };
+
 export default TechStack;
